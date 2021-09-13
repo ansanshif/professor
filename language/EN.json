@@ -186,8 +186,8 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\n*Song Thappatte🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Paatt Uploading 📲 Use 🎧*\n",
+            "DOWNLOADING_SONG": "\n*Song Thappatte🧚‍♂️* 🤗\n",
+            "UPLOADING_SONG": "\n*Paatt Upload 📲 cheyyunnu*\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
@@ -202,7 +202,7 @@
             "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "photo sticker akkaan.",
+            "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
             "DOWNLOADING": "```Ippam Sheriyaakithara 🤠```"
         },
@@ -217,7 +217,7 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*PROFESSOR Puthiya Update Vannittundu✨* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und \n\n https://chat.whatsapp.com/D7mZ8nK6VxH9uQYImdsO1i \n\nChanges:\n```",
+            "NEW_UPDATE": "*PROFESSOR Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nhttps://chat.whatsapp.com/D7mZ8nK6VxH9uQYImdsO1iChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
