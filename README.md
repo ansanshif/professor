@@ -1,4 +1,20 @@
+# <!-- Typing SVG -->
 
+<p align="center">
+
+    <a href="https://git.io/J0hKr">
+
+        <img
+
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+PROFESSOR+BOT."
+        
+            alt="Typing SVG"
+
+        />
+
+    </a>
+
+</p>
 <div align="center">
   <img border-radius: 15px src="Professor.jpg" width="200" height="200"/>
   <p align="center">
