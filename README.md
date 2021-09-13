@@ -5,7 +5,11 @@
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Professor+Bot"
             alt="Typing SVG"
         />
-    </a>
+        <img 
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Created+By+Ansanshif"
+            alt="Typing SVG"
+        
+    
 </p>
 <div align="center">
   <img border-radius: 15px src="Professor.jpg" width="200" height="200"/>
