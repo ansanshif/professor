@@ -5,10 +5,10 @@
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Professor+Bot"
             alt="Typing SVG"
         />
-        <img 
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Created+By+Ansanshif"
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=20&width=800&lines=Created+By+Ansanshif"
             alt="Typing SVG"
-        
+       />
     
 </p>
 <div align="center">
