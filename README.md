@@ -78,7 +78,7 @@ Click MONEY HEIST MASK logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ansanshif10/Professor)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pikachucreator/pikachu-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ansanshif/professor.git)
      </div>
